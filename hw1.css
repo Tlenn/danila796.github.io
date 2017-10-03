@@ -1,0 +1,50 @@
+h1 {
+    font-family: "Open Sans", sans-serif;
+    color:  #1946ba;
+    font-size: 30px;
+}
+
+body {
+    width: 960px;
+    margin: 10px;
+    padding: 0 20px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    color: black;
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    color:  black;
+    font-size: 25px;
+}
+
+.cite {
+    margin: 45px;
+    width: 850px;
+    padding: 2px 5px;
+    border-left: 2px solid black;
+    font-weight: normal;
+    font-size: 0.66em;
+}
+
+.ramka {
+    border: 1px solid #F5F5F5; /* Толщина рамки в пикселах,
+                           тип границы (в данном случае сплошная линия) и
+                           цвет линии */
+    padding: 10px; /* Расстояние от текста до рамки */
+}
+
+input[type=button]{
+    margin: -100px 50px;
+    width: 175px;
+    padding: 9px 9px;
+    background: #ec0b43;
+    border-color: #ec0b43;
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    font-size: 0.84em;
+}
