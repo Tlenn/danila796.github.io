@@ -22,3 +22,6 @@ button.onclick = function() {
 
     oi.innerHTML=ab[rn];
 }
+
+
+
