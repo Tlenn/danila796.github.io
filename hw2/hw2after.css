@@ -1,0 +1,39 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid gray;
+}
+thead th,
+tfoot th {
+    font-family: bold;
+}
+th {
+    letter-spacing: 2px;
+}
+td {
+    letter-spacing: 1px;
+}
+tbody td {
+    text-align: center;
+}
+tfoot th {
+    text-align: right;
+}
+table td {
+    border: 1px solid black;
+}
+table th {
+    border: 1px solid black;
+    height: 35px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+img {
+    position: relative;
+    left: 3px;
+    height: 10px;
+    top: 1px;
+    width: 12px;
+    cursor: pointer
+}
