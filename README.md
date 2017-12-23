@@ -7,3 +7,5 @@ e-mail: danila796@rambler.ru
 
 
 [hw2](https://github.com/danila796/danila796.github.io/tree/master/hw2)
+
+[hw3](https://github.com/danila796/danila796.github.io/tree/master/hw3)
